@@ -3,6 +3,7 @@ This project uses a fine-tuned Inception V3 model to detect pneumonia from chest
 
 ## Setup
 Clone the repository and install dependencies:
+
 #Hyper-parameter Choices
 The following hyper-parameters were selected for training the Inception V3 model for pneumonia detection:
 
